@@ -60,4 +60,4 @@ for i in range(begin,end+1):
 print(result)
 
 df = pd.DataFrame(result)
-df.to_csv("scan_ports.csv")
+df.to_csv("SEC_SEM_4/scan_ports.csv")
